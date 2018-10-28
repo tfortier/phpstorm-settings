@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5d544eaf-5c8c-419b-b725-1c8ee6d82caf" name="ONR-CRAFT" url="https://onr-craft.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
