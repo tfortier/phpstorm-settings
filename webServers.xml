@@ -4,6 +4,9 @@
       <webServer id="8f3f30fa-8d28-4e91-861b-c3f4120ab8d9" name="wotc-dx" url="http://wotc-dx.loc">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ea1cc5a1-e639-467f-9ef0-b111657cfdeb" name="wotc-mx" url="http://wotc-mx.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
