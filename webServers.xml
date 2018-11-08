@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f3f30fa-8d28-4e91-861b-c3f4120ab8d9" name="wotc-dx" url="http://wotc-dx.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
