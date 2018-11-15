@@ -7,6 +7,9 @@
       <webServer id="ea1cc5a1-e639-467f-9ef0-b111657cfdeb" name="wotc-mx" url="http://wotc-mx.loc">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="bde7e810-e0e9-4470-9dbb-5af58781827a" name="onr-dancer.test" url="http://onr-dancer.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
