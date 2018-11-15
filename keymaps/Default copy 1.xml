@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta ampersand" />
   </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f13" />
+  </action>
   <action id="Tool_External Tools_PHP Fixer">
     <keyboard-shortcut first-keystroke="meta u_with_grave" />
   </action>
