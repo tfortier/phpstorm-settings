@@ -10,7 +10,7 @@
       <webServer id="bde7e810-e0e9-4470-9dbb-5af58781827a" name="onr-dancer.test" url="http://onr-dancer.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="c86b779e-2a41-45a0-900c-55bd0f2efd95" name="wotc-rx.loc" url="http://wotc-rx.loc">
+      <webServer id="c86b779e-2a41-45a0-900c-55bd0f2efd95" name="wotc-rx.loc" url="http://wotc-rx.loc/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
