@@ -4,6 +4,6 @@
     <keyboard-shortcut first-keystroke="meta ampersand" />
   </action>
   <action id="Tool_External Tools_PHP Fixer">
-    <keyboard-shortcut first-keystroke="meta u_with_grave" />
+    <keyboard-shortcut first-keystroke="alt c_with_cedilla" />
   </action>
 </keymap>
