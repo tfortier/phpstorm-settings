@@ -16,6 +16,9 @@
       <webServer id="0a2767a2-f9b8-4f2a-83a7-663fc936973d" name="wotc-wx" url="http://wotc-wx.loc">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="28334024-b660-43c1-924a-30a09393cb18" name="bca.loc" url="http://bca.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
